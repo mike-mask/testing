@@ -18,3 +18,8 @@ just testing
 how to merge branches
 so let us see
 now we will try to merge
+PERSON X NEW BRANCH
+PERSON X NEW BRANCH
+PERSON X NEW BRANCH
+PERSON X NEW BRANCH
+PERSON X NEW BRANCH
