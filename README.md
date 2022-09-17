@@ -13,3 +13,8 @@ What is a new branch? Please tell me.
 NOT next
 HAPPY
 
+we are
+just testing
+how to merge branches
+so let us see
+now we will try to merge
